@@ -414,7 +414,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\r\n    \"name\": \"prueba1\"\r\n}",
+											"raw": "{\r\n    \"name\": \"Linea de trabajo\"\r\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -448,7 +448,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\r\n    \"name\": \"prueba1\",\r\n    \"description\": \"prueba1 descripcion\"\r\n}",
+											"raw": "{\r\n    \"name\": \"Evento de conexión\",\r\n    \"description\": \"Evento de conexión exitosa\"\r\n}",
 											"options": {
 												"raw": {
 													"language": "json"
