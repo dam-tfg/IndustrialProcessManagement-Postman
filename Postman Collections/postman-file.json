@@ -988,6 +988,18 @@
 										"url": "{{server.host}}:{{server.port}}{{api.path}}{{api.path.specialty}}new"
 									},
 									"response": []
+								},
+								{
+									"name": "New Request",
+									"id": "598e1441-673c-4fbb-affe-76ebfd69b7b2",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"method": "GET",
+										"header": []
+									},
+									"response": []
 								}
 							],
 							"id": "79a4197a-7399-4205-97b5-b490e1747669"
