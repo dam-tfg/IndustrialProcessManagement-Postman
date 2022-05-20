@@ -990,7 +990,7 @@
 									"response": []
 								},
 								{
-									"name": "New Request",
+									"name": "Get by ID",
 									"id": "598e1441-673c-4fbb-affe-76ebfd69b7b2",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
